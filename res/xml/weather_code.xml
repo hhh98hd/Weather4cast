@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thunderstorm */ -->
+    <weather name="200">
+        <title>Giông nhẹ</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="201">
+        <title>Giông</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="202">
+        <title>Giông mạnh</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="210">
+        <title>Giông nhẹ</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="211">
+        <title>Giông</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="212">
+        <title>Giông mạnh</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="221">
+        <title>Giông rải rác</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="230">
+        <title>Giông</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="231">
+        <title>Giông</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <weather name="232">
+        <title>Giông</title>
+        <icon>@mipmap/img_weather_t_storm</icon>
+    </weather>
+
+    <!-- Drizzle */ -->
+    <weather name="300">
+        <title>Mưa phùn</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <weather name="301">
+        <title>Mưa phùn</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <weather name="302">
+        <title>Mưa mau</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <weather name="310">
+        <title>Mưa phùn</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <weather name="311">
+        <title>Mưa phùn</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <weather name="312">
+        <title>Mưa phùn</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <weather name="313">
+        <title>Mưa rào</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="314">
+        <title>Mưa rào to</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="321">
+        <title>Mưa phùn</title>
+        <icon>@mipmap/img_weather_drizzle</icon>
+    </weather>
+
+    <!-- Rain -->
+    <weather name="500">
+        <title>Mưa nhỏ</title>
+        <icon>@mipmap/img_weather_light_rain</icon>
+    </weather>
+
+    <weather name="501">
+        <title>Mưa vừa</title>
+        <icon>@mipmap/img_weather_mod_rain</icon>
+    </weather>
+
+    <weather name="502">
+        <title>Mưa to</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="503">
+        <title>Mưa rất to</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="504">
+        <title>Mưa rất to</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="511">
+        <title>Mưa băng</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="520">
+        <title>Mưa rào nhẹ</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="521">
+        <title>Mưa rào</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="522">
+        <title>Mưa rào</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <weather name="531">
+        <title>Mưa rào rải rác</title>
+        <icon>@mipmap/img_weather_heavy_rain</icon>
+    </weather>
+
+    <!-- Snow -->
+    <weather name="600">
+        <title>Tuyết rơi nhẹ</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="601">
+        <title>Có tuyết rơi</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="602">
+        <title>Tuyết rơi nặng</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="611">
+        <title>Sương muối</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="612">
+        <title>Sương muối</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="613">
+        <title>Sương muối</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="615">
+        <title>Mưa nhẹ kèm theo tuyết"</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="616">
+        <title>>Mưa kèm theo tuyết</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="620">
+        <title>Mưa rào kèm theo tuyết</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="621">
+        <title>Mưa rào kèm theo tuyết</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <weather name="622">
+        <title>Mưa rào kèm theo tuyết</title>
+        <icon>@mipmap/img_weather_snow</icon>
+    </weather>
+
+    <!-- Atmosphere -->
+    <weather name="701">
+        <title>Sương mù nhẹ</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="711">
+        <title>Khói</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="721">
+        <title>Bụi</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="731">
+        <title>Bụi</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="741">
+        <title>Sương mù</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="751">
+        <title>Bão cát</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="761">
+        <title>Bụi mù</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="762">
+        <title>Tro núi lửa</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="771">
+        <title>Lốc</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <weather name="781">
+        <title>Lốc xoáy</title>
+        <icon>@mipmap/img_weather_fog</icon>
+    </weather>
+
+    <!-- Clear -->
+    <weather name="800">
+        <title>Trời quang</title>
+        <icon>@mipmap/img_weather_clear</icon>
+    </weather>
+
+    <!-- Cloud -->
+    <weather name="801">
+        <title>Ít mâyt</title>
+        <icon>@mipmap/img_weather_few_cloud</icon>
+    </weather>
+
+    <weather name="802">
+        <title>Mây rải rác</title>
+        <icon>@mipmap/img_weather_scat_cloud</icon>
+    </weather>
+
+    <weather name="803">
+        <title>Nhiều mây</title>
+        <icon>@mipmap/img_weather_broken_cloud</icon>
+    </weather>
+
+    <weather name="804">
+        <title>Nhiều mây</title>
+        <icon>@mipmap/img_weather_broken_cloud</icon>
+    </weather>
+</resources>
